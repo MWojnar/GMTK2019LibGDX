@@ -1,0 +1,7 @@
+{
+"Frames between attacks": "120"
+"Frames laser stays activated": "180"
+"Horizontal speed": "2.5f"
+"Normal amplitude": "16.0f"
+"Small amplitude": "8.0f"
+}

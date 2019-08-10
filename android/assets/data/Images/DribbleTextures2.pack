@@ -1,0 +1,173 @@
+DribbleTextures2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Cutscenes/Cutscene1
+  rotate: false
+  xy: 2, 248
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene1a
+  rotate: false
+  xy: 2, 494
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene1b
+  rotate: false
+  xy: 1214, 2
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene2
+  rotate: false
+  xy: 1620, 2
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene2a
+  rotate: false
+  xy: 1214, 248
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene2b
+  rotate: false
+  xy: 1620, 248
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene3
+  rotate: false
+  xy: 1214, 494
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene3b
+  rotate: false
+  xy: 1620, 494
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene4
+  rotate: false
+  xy: 408, 508
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene4a
+  rotate: false
+  xy: 2, 740
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene4b
+  rotate: false
+  xy: 2, 986
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene5
+  rotate: false
+  xy: 2, 1232
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene6
+  rotate: false
+  xy: 2, 1478
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Cutscene7
+  rotate: false
+  xy: 2, 1724
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/CutsceneSnatchTransition
+  rotate: false
+  xy: 2, 2
+  size: 700, 240
+  orig: 700, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Ending1
+  rotate: false
+  xy: 814, 740
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Ending2
+  rotate: false
+  xy: 408, 754
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Ending3
+  rotate: false
+  xy: 1220, 740
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Ending4
+  rotate: false
+  xy: 1626, 740
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Ending5
+  rotate: false
+  xy: 408, 1000
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Ending6
+  rotate: false
+  xy: 408, 1246
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Ending7
+  rotate: false
+  xy: 408, 1492
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Ending8
+  rotate: false
+  xy: 408, 1738
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Cutscenes/Slideshow_Circle
+  rotate: false
+  xy: 708, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,103 @@
+GMTK2019Textures.png
+size: 4096, 4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 1, 3885
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 1, 3888
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 1, 3891
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+JusTALK_Banned
+  rotate: false
+  xy: 1, 1
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+JusTALK_Mod
+  rotate: false
+  xy: 1, 1923
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+JusTALK_Title
+  rotate: false
+  xy: 1083, 1
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Nine-Slice_Button
+  rotate: false
+  xy: 2165, 1
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
+Nine-Slice_Button_clicked
+  rotate: false
+  xy: 2807, 1
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
+Nine-Slice_Button_inactive
+  rotate: false
+  xy: 3449, 1
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
+Textbox
+  rotate: false
+  xy: 2165, 643
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
+TextboxOther
+  rotate: false
+  xy: 2807, 643
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
+Top_Layer
+  rotate: false
+  xy: 1083, 1923
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+typing_3frames
+  rotate: false
+  xy: 1, 3845
+  size: 309, 38
+  orig: 309, 38
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1, 3894
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

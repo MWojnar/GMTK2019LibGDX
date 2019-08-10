@@ -1,0 +1,2266 @@
+DribbleTextures.png
+size: 4096, 4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Backgrounds/bg_bizbothq/bg_bizbothq1
+  rotate: false
+  xy: 2, 2056
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bizbothq/bg_bizbothq2
+  rotate: false
+  xy: 2, 2862
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bizbothq/bg_bizbothq3
+  rotate: false
+  xy: 1256, 240
+  size: 64, 800
+  orig: 64, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bizbothq/bg_bizbothq_cloud1
+  rotate: false
+  xy: 616, 3668
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bizbothq/bg_bizbothq_cloud2
+  rotate: false
+  xy: 1522, 1370
+  size: 360, 230
+  orig: 360, 230
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bizbothq/bg_bizbothq_cloud3
+  rotate: false
+  xy: 1488, 1614
+  size: 420, 260
+  orig: 420, 260
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bizbothq/bg_bizbothq_sky
+  rotate: false
+  xy: 1524, 564
+  size: 8, 800
+  orig: 8, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bobayou/bg_bobayou1
+  rotate: false
+  xy: 808, 2258
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bobayou/bg_bobayou2
+  rotate: false
+  xy: 1022, 3064
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bobayou/bg_bobayou3
+  rotate: false
+  xy: 2582, 467
+  size: 64, 800
+  orig: 64, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_bobayou/bg_bobayou_sky
+  rotate: false
+  xy: 1508, 760
+  size: 8, 800
+  orig: 8, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_floatyfluff/bg_floatyfluff1
+  rotate: false
+  xy: 2634, 3060
+  size: 600, 800
+  orig: 600, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_floatyfluff/bg_floatyfluff2
+  rotate: false
+  xy: 2158, 467
+  size: 400, 800
+  orig: 400, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_floatyfluff/bg_floatyfluff3
+  rotate: false
+  xy: 3146, 504
+  size: 64, 800
+  orig: 64, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_floatyfluff/bg_floatyfluff_cloud1
+  rotate: false
+  xy: 2176, 1609
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_floatyfluff/bg_floatyfluff_cloud2
+  rotate: false
+  xy: 1326, 300
+  size: 200, 240
+  orig: 200, 240
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_floatyfluff/bg_floatyfluff_cloud3
+  rotate: false
+  xy: 3790, 2
+  size: 300, 240
+  orig: 300, 240
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_floatyfluff/bg_floatyfluff_dungeon
+  rotate: false
+  xy: 1244, 1046
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_floatyfluff/bg_floatyfluff_sky
+  rotate: false
+  xy: 1493, 808
+  size: 8, 800
+  orig: 8, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_grittycity/bg_grittycity1
+  rotate: false
+  xy: 1614, 2256
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_grittycity/bg_grittycity2
+  rotate: false
+  xy: 1828, 3062
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_grittycity/bg_grittycity3
+  rotate: false
+  xy: 3146, 1334
+  size: 64, 800
+  orig: 64, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_grittycity/bg_grittycity_cloud1
+  rotate: false
+  xy: 2306, 1941
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_grittycity/bg_grittycity_cloud2
+  rotate: false
+  xy: 1070, 1920
+  size: 360, 280
+  orig: 360, 280
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_grittycity/bg_grittycity_cloud3
+  rotate: false
+  xy: 3776, 248
+  size: 300, 240
+  orig: 300, 240
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_grittycity/bg_grittycity_sky
+  rotate: false
+  xy: 1230, 654
+  size: 8, 800
+  orig: 8, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_loonyland/bg_loonyland1
+  rotate: false
+  xy: 1796, 3870
+  size: 420, 198
+  orig: 420, 198
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_loonyland/bg_loonyland2
+  rotate: false
+  xy: 1538, 680
+  size: 400, 600
+  orig: 400, 600
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_loonyland/bg_loonyland3
+  rotate: false
+  xy: 3076, 606
+  size: 64, 700
+  orig: 64, 700
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_loonyland/bg_loonyland_cloud1
+  rotate: false
+  xy: 2294, 1348
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_loonyland/bg_loonyland_cloud2
+  rotate: false
+  xy: 2582, 1594
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_loonyland/bg_loonyland_cloud3
+  rotate: false
+  xy: 2700, 1348
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_loonyland/bg_loonyland_sky
+  rotate: false
+  xy: 1474, 1144
+  size: 8, 800
+  orig: 8, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_paintforest/bg_paintforest1
+  rotate: false
+  xy: 2420, 2254
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_paintforest/bg_paintforest2
+  rotate: false
+  xy: 3226, 1334
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_paintforest/bg_paintforest3
+  rotate: false
+  xy: 3226, 2242
+  size: 64, 800
+  orig: 64, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_paintforest/bg_paintforest_cloud1
+  rotate: false
+  xy: 1474, 1950
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_paintforest/bg_paintforest_cloud2
+  rotate: false
+  xy: 2294, 231
+  size: 360, 230
+  orig: 360, 230
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_paintforest/bg_paintforest_cloud3
+  rotate: false
+  xy: 1880, 1950
+  size: 420, 260
+  orig: 420, 260
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_paintforest/bg_paintforest_sky
+  rotate: false
+  xy: 1064, 928
+  size: 8, 800
+  orig: 8, 800
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_surrealsanctum/bg_gravity_arrows
+  rotate: false
+  xy: 1012, 1144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_surrealsanctum/bg_surrealsanctum1
+  rotate: false
+  xy: 2, 1050
+  size: 800, 1000
+  orig: 800, 1000
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_surrealsanctum/bg_surrealsanctum_interior
+  rotate: false
+  xy: 1328, 234
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_surrealsanctum/bg_surrealsanctum_statue1
+  rotate: false
+  xy: 1096, 622
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_surrealsanctum/bg_surrealsanctum_statue2
+  rotate: false
+  xy: 1096, 756
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Backgrounds/bg_surrealsanctum/bg_surrealsanctum_statue3
+  rotate: false
+  xy: 1096, 890
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Backgrounds/Dribble_Title_First_Draft
+  rotate: false
+  xy: 1888, 1363
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Colors/black
+  rotate: false
+  xy: 1532, 342
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Colors/blue
+  rotate: false
+  xy: 1532, 349
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Colors/green
+  rotate: false
+  xy: 1532, 356
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Colors/white
+  rotate: false
+  xy: 1532, 363
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Dribble_Title
+  rotate: false
+  xy: 1040, 3972
+  size: 314, 121
+  orig: 314, 121
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/final_arena_cage
+  rotate: false
+  xy: 1244, 1284
+  size: 106, 129
+  orig: 106, 129
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_battlegate_numbers_strip11
+  rotate: false
+  xy: 1326, 760
+  size: 176, 16
+  orig: 176, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_battlegate_strip4
+  rotate: false
+  xy: 1944, 1074
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_bizbot_missile_explode_strip6
+  rotate: false
+  xy: 2194, 1855
+  size: 480, 80
+  orig: 480, 80
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_bizbot_missile_particles_death
+  rotate: false
+  xy: 1394, 284
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_bizbot_missile_strip2
+  rotate: false
+  xy: 1944, 960
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_bomb_explode
+  rotate: false
+  xy: 1078, 1460
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_bomb_explode_hitbox
+  rotate: false
+  xy: 2, 200
+  size: 1248, 96
+  orig: 1248, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_bomb_explode_strip13
+  rotate: false
+  xy: 2, 302
+  size: 1248, 96
+  orig: 1248, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_bomb_strip3
+  rotate: false
+  xy: 2652, 1200
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot
+  rotate: false
+  xy: 2680, 504
+  size: 448, 96
+  orig: 448, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_bombtext_strip17
+  rotate: false
+  xy: 2, 404
+  size: 1088, 96
+  orig: 1088, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_firetext_strip17
+  rotate: false
+  xy: 2, 506
+  size: 1088, 96
+  orig: 1088, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_fisttext_strip17
+  rotate: false
+  xy: 2, 608
+  size: 1088, 96
+  orig: 1088, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_Hat_strip3
+  rotate: false
+  xy: 1256, 218
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_intro_strip21
+  rotate: false
+  xy: 2, 98
+  size: 1344, 96
+  orig: 1344, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_lasertext_strip17
+  rotate: false
+  xy: 2, 710
+  size: 1088, 96
+  orig: 1088, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_missiletext_strip17
+  rotate: false
+  xy: 2, 812
+  size: 1088, 96
+  orig: 1088, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_poundtext_strip4
+  rotate: false
+  xy: 2790, 1098
+  size: 256, 96
+  orig: 256, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_weak_strip14
+  rotate: false
+  xy: 2, 948
+  size: 896, 96
+  orig: 896, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_BossBot_Weakness_strip3
+  rotate: false
+  xy: 1012, 1082
+  size: 45, 8
+  orig: 45, 8
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_Final_Arena_Platform
+  rotate: false
+  xy: 2190, 59
+  size: 48, 128
+  orig: 48, 128
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_fist
+  rotate: false
+  xy: 1012, 1220
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_fist_chain
+  rotate: false
+  xy: 1326, 256
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_laser_firing_strip20
+  rotate: false
+  xy: 1544, 28
+  size: 640, 32
+  orig: 640, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_laserbeam_strip6
+  rotate: false
+  xy: 762, 4080
+  size: 48, 8
+  orig: 48, 8
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BizHQ/spr_laserwave_strip12
+  rotate: false
+  xy: 1654, 3972
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BOBAYOU/gspr_mucky_waterfall/spr_mucky_pipe
+  rotate: false
+  xy: 942, 1152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BOBAYOU/gspr_mucky_waterfall/spr_mucky_waterfalls_strip32
+  rotate: false
+  xy: 2244, 142
+  size: 1536, 32
+  orig: 1536, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BOBAYOU/gspr_mucky_waterfall/spr_trashbag
+  rotate: false
+  xy: 1012, 1182
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BOBAYOU/gspr_mucky_waterfall/spr_trashbag_particles
+  rotate: false
+  xy: 1944, 1052
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BOBAYOU/gspr_trash_can/spr_trash_can
+  rotate: false
+  xy: 808, 1050
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BOBAYOU/gspr_trash_can/spr_trash_lid
+  rotate: false
+  xy: 1944, 1096
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BOBAYOU/gspr_trash_can/spr_trash_pile
+  rotate: false
+  xy: 942, 1222
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BOBAYOU/spr_bobayou_water_particles
+  rotate: false
+  xy: 1064, 914
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+Sprites/gspr_BOBAYOU/spr_vortex_strip4
+  rotate: false
+  xy: 1244, 1419
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot1_strip6
+  rotate: false
+  xy: 1326, 600
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot2_strip5
+  rotate: false
+  xy: 1326, 858
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot3_strip5
+  rotate: false
+  xy: 1326, 896
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot_particle3
+  rotate: false
+  xy: 1532, 320
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot_particles1
+  rotate: false
+  xy: 2158, 66
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot_particles2
+  rotate: false
+  xy: 1508, 284
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot_shot
+  rotate: false
+  xy: 1326, 278
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot_shot_particle
+  rotate: false
+  xy: 1524, 546
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot_spikey
+  rotate: false
+  xy: 910, 1664
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot_torpedo
+  rotate: false
+  xy: 1436, 1920
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_bizbot_turret_strip2
+  rotate: false
+  xy: 1378, 1412
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_jumping_bizbot_strip8
+  rotate: false
+  xy: 2100, 1310
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_torpedo_cannon_strip2
+  rotate: false
+  xy: 878, 1082
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_torpedo_explosion_strip6
+  rotate: false
+  xy: 3776, 494
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_torpedo_particles_bubbles
+  rotate: false
+  xy: 1078, 928
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_bizbot/spr_torpedo_particles_death
+  rotate: false
+  xy: 1430, 284
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_crumbly_wall/spr_crumbly_wall_particle1_strip4
+  rotate: false
+  xy: 816, 4080
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_crumbly_wall/spr_crumbly_wall_particle2_strip4
+  rotate: false
+  xy: 654, 4080
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_crumbly_wall/spr_crumbly_wall_particle3_strip4
+  rotate: false
+  xy: 1348, 284
+  size: 40, 10
+  orig: 40, 10
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_crumbly_wall/spr_crumbly_wall_strip4
+  rotate: false
+  xy: 808, 1222
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_end_balloon/spr_end_balloon
+  rotate: false
+  xy: 980, 1661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_end_balloon/spr_end_balloon_particles
+  rotate: false
+  xy: 1070, 1850
+  size: 384, 64
+  orig: 384, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_end_balloon/spr_end_balloon_pop
+  rotate: false
+  xy: 808, 1734
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_end_balloon/spr_end_balloon_pop_small
+  rotate: false
+  xy: 1814, 1880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_end_balloon/spr_end_pump_strip5
+  rotate: false
+  xy: 1488, 1880
+  size: 320, 64
+  orig: 320, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_end_balloon/spr_level_end
+  rotate: false
+  xy: 1016, 1623
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_end_balloon/spr_level_end_transition
+  rotate: false
+  xy: 1012, 1258
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_end_balloon/spr_pumpit
+  rotate: false
+  xy: 1954, 1871
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_gumball/spr_golden_gumball
+  rotate: false
+  xy: 2158, 83
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_gumball/spr_gumball
+  rotate: false
+  xy: 1256, 200
+  size: 72, 12
+  orig: 72, 12
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/gspr_gumball/spr_gumball_particle
+  rotate: false
+  xy: 1532, 331
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/spr_checkpoint_strip7
+  rotate: false
+  xy: 1244, 1144
+  size: 224, 64
+  orig: 224, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/spr_sticky_ball_strip5
+  rotate: false
+  xy: 1078, 1426
+  size: 120, 24
+  orig: 120, 24
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/sprite_sticky_particle
+  rotate: false
+  xy: 1532, 284
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Sprites/gspr_COMMON/wall_particle
+  rotate: false
+  xy: 1532, 296
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/gspr_balloon/spr_balloon_pop_strip3
+  rotate: false
+  xy: 808, 1664
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/gspr_balloon/spr_balloon_strip7
+  rotate: false
+  xy: 1244, 1214
+  size: 224, 64
+  orig: 224, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/gspr_cloud/spr_cloud
+  rotate: false
+  xy: 1326, 638
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/gspr_cloud/spr_cloud_particles
+  rotate: false
+  xy: 1012, 1096
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/gspr_cranky_couch/spr_cranky_couch
+  rotate: false
+  xy: 1326, 676
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/gspr_cranky_couch/spr_cranky_couch_cushion
+  rotate: false
+  xy: 616, 4080
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/spr_cotton_candy_particle
+  rotate: false
+  xy: 1078, 942
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/spr_mattress_strip3
+  rotate: false
+  xy: 1326, 714
+  size: 192, 18
+  orig: 192, 18
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/spr_pillow_strip3
+  rotate: false
+  xy: 2158, 435
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_FLOATYFLUFF/spr_wind_particle
+  rotate: false
+  xy: 1230, 456
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_biztank2_strip12
+  rotate: false
+  xy: 2248, 2
+  size: 1536, 64
+  orig: 1536, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_biztank3_strip12
+  rotate: false
+  xy: 2, 28
+  size: 1536, 64
+  orig: 1536, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_biztank_cannon
+  rotate: false
+  xy: 1020, 1517
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_biztank_dead
+  rotate: false
+  xy: 808, 1152
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_biztank_strip12
+  rotate: false
+  xy: 2244, 72
+  size: 1536, 64
+  orig: 1536, 64
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_dribble_cannon_strip3
+  rotate: false
+  xy: 1944, 1179
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_fire_cannon_strip3
+  rotate: false
+  xy: 2003, 1118
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_fire_particle_strip4
+  rotate: false
+  xy: 708, 4080
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_fire_strip3
+  rotate: false
+  xy: 1334, 200
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_fireball_strip4
+  rotate: false
+  xy: 2100, 1273
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_firespawn_strip4
+  rotate: false
+  xy: 1230, 478
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_oil_ball
+  rotate: false
+  xy: 2158, 113
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_oil_cannon_strip3
+  rotate: false
+  xy: 2046, 1172
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_oil_particle
+  rotate: false
+  xy: 1532, 308
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Sprites/gspr_GRITTYCITY/spr_sticky_cannon_strip3
+  rotate: false
+  xy: 2014, 1030
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_bongos_strip4
+  rotate: false
+  xy: 1326, 546
+  size: 192, 48
+  orig: 192, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_bongos_strip5
+  rotate: false
+  xy: 1244, 1090
+  size: 240, 48
+  orig: 240, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_gate_lights_strip9
+  rotate: false
+  xy: 1096, 434
+  size: 144, 16
+  orig: 144, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_gate_strip2
+  rotate: false
+  xy: 1020, 1593
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_paint_particle_strip3
+  rotate: false
+  xy: 1328, 222
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_paintdrop_blue_strip11
+  rotate: false
+  xy: 1070, 2206
+  size: 352, 32
+  orig: 352, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_paintdrop_red_strip11
+  rotate: false
+  xy: 2430, 2209
+  size: 352, 32
+  orig: 352, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_paintdrop_yellow_strip11
+  rotate: false
+  xy: 2788, 2209
+  size: 352, 32
+  orig: 352, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_paintfall_strip3
+  rotate: false
+  xy: 1326, 738
+  size: 192, 16
+  orig: 192, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_PAINTFOREST/spr_vine_strip2
+  rotate: false
+  xy: 1436, 2012
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_SURREALSANCTUM/spr_teleporting_voids_strip15
+  rotate: false
+  xy: 2188, 193
+  size: 480, 32
+  orig: 480, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_SURREALSANCTUM/spr_warp_strip4
+  rotate: false
+  xy: 808, 1260
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_back
+  rotate: false
+  xy: 1012, 1114
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_ball_machine
+  rotate: false
+  xy: 1356, 1306
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_ball_machine_bottom_layer
+  rotate: false
+  xy: 942, 1305
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_ball_machine_top_layer
+  rotate: false
+  xy: 942, 1411
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_bizbot_menu
+  rotate: false
+  xy: 2652, 852
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_bizbothq_select
+  rotate: false
+  xy: 808, 1452
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_bo_menu
+  rotate: false
+  xy: 3370, 522
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_bobayou_select
+  rotate: false
+  xy: 914, 1517
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_buy
+  rotate: false
+  xy: 2100, 788
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_checkbox
+  rotate: false
+  xy: 2190, 28
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_Dribble_menu
+  rotate: false
+  xy: 2652, 606
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_floaty_menu
+  rotate: false
+  xy: 2712, 1840
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_floatyfluff_select
+  rotate: false
+  xy: 808, 1558
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_golden_gumball_missing_UI
+  rotate: false
+  xy: 2100, 734
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_golden_gumball_UI
+  rotate: false
+  xy: 2100, 680
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_gritty_menu
+  rotate: false
+  xy: 3542, 2140
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_grittycity_select
+  rotate: false
+  xy: 616, 3974
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_gumball_UI_strip6
+  rotate: false
+  xy: 1096, 404
+  size: 144, 24
+  orig: 144, 24
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_letters
+  rotate: false
+  xy: 1360, 4074
+  size: 476, 20
+  orig: 476, 20
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_Loading
+  rotate: false
+  xy: 1326, 808
+  size: 161, 44
+  orig: 161, 44
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_Loading_strip3
+  rotate: false
+  xy: 1538, 1286
+  size: 486, 71
+  orig: 486, 71
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_locked
+  rotate: false
+  xy: 1944, 1118
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_loony_menu
+  rotate: false
+  xy: 3216, 828
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_loonyland_select
+  rotate: false
+  xy: 722, 3974
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_menu
+  rotate: false
+  xy: 1016, 1623
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_menu_transition
+  rotate: false
+  xy: 1012, 1258
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_numbers
+  rotate: false
+  xy: 1326, 782
+  size: 170, 20
+  orig: 170, 20
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_options
+  rotate: false
+  xy: 1020, 1555
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_paint_menu
+  rotate: false
+  xy: 3370, 1074
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_paintforest_select
+  rotate: false
+  xy: 828, 3974
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_pause
+  rotate: false
+  xy: 2158, 143
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_pause_background
+  rotate: false
+  xy: 1352, 98
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_play
+  rotate: false
+  xy: 2158, 173
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_scale
+  rotate: false
+  xy: 942, 1292
+  size: 104, 7
+  orig: 104, 7
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_skin_particle
+  rotate: false
+  xy: 1466, 284
+  size: 36, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_skins
+  rotate: false
+  xy: 1436, 1974
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_slider
+  rotate: false
+  xy: 1078, 956
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_surreal_menu
+  rotate: false
+  xy: 3622, 768
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_surrealsanctum_select
+  rotate: false
+  xy: 934, 3974
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sprites/gspr_UI/spr_wojworks
+  rotate: false
+  xy: 1326, 934
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Sprites/spr_baseball_gray_strip18
+  rotate: false
+  xy: 1842, 4074
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_baseball_intro_strip17
+  rotate: false
+  xy: 1880, 2216
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_baseball_strip18
+  rotate: false
+  xy: 2136, 4074
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_basketball_gray_strip18
+  rotate: false
+  xy: 2306, 2187
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_basketball_intro_strip17
+  rotate: false
+  xy: 3226, 180
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_basketball_strip18
+  rotate: false
+  xy: 2600, 2187
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_bowlingball_gray_strip18
+  rotate: false
+  xy: 2202, 1273
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_bowlingball_intro_strip17
+  rotate: false
+  xy: 3226, 218
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_bowlingball_strip18
+  rotate: false
+  xy: 2496, 1273
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_dribble_friends
+  rotate: false
+  xy: 2012, 1096
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_dribble_friends_happy
+  rotate: false
+  xy: 914, 1623
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_dribble_gray_strip18
+  rotate: false
+  xy: 3076, 1312
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_dribble_intro_strip17
+  rotate: false
+  xy: 3226, 256
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_dribble_strip18
+  rotate: false
+  xy: 3776, 548
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_dribblebot_gray_strip18
+  rotate: false
+  xy: 3776, 570
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_dribblebot_intro_strip17
+  rotate: false
+  xy: 3226, 294
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_dribblebot_strip18
+  rotate: false
+  xy: 3776, 592
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_eyeball_gray_strip18
+  rotate: false
+  xy: 3776, 614
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_eyeball_intro_strip17
+  rotate: false
+  xy: 3226, 332
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_eyeball_strip18
+  rotate: false
+  xy: 3776, 636
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_globe_gray_strip18
+  rotate: false
+  xy: 3776, 658
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_globe_intro_strip17
+  rotate: false
+  xy: 3226, 370
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_globe_strip18
+  rotate: false
+  xy: 3776, 680
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_golden_dribble_gray_strip18
+  rotate: false
+  xy: 3776, 702
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_golden_dribble_intro_strip17
+  rotate: false
+  xy: 3226, 408
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_golden_dribble_strip18
+  rotate: false
+  xy: 3776, 724
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_health_strip11
+  rotate: false
+  xy: 2, 914
+  size: 1056, 28
+  orig: 1056, 28
+  offset: 0, 0
+  index: -1
+Sprites/spr_healthregen_strip35
+  rotate: false
+  xy: 2, 2
+  size: 2240, 20
+  orig: 2240, 20
+  offset: 0, 0
+  index: -1
+Sprites/spr_jump_circles_strip2
+  rotate: false
+  xy: 1944, 1014
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_ogmo_gray_strip18
+  rotate: false
+  xy: 3776, 746
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_ogmo_intro_strip17
+  rotate: false
+  xy: 3226, 446
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_ogmo_strip18
+  rotate: false
+  xy: 2324, 3970
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_omnibus
+  rotate: false
+  xy: 1230, 500
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_omnibus_gray
+  rotate: false
+  xy: 1230, 522
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_omnibus_intro_strip17
+  rotate: false
+  xy: 3226, 484
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_smiley_gray_strip18
+  rotate: false
+  xy: 2324, 3992
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_smiley_intro_strip17
+  rotate: false
+  xy: 2660, 314
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_smiley_strip18
+  rotate: false
+  xy: 2324, 4014
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_snowman_gray_strip18
+  rotate: false
+  xy: 2324, 4036
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_snowman_intro_strip17
+  rotate: false
+  xy: 2660, 352
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_snowman_strip18
+  rotate: false
+  xy: 2430, 4058
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_sunglasses_gray_strip18
+  rotate: false
+  xy: 2426, 3868
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_sunglasses_intro_strip17
+  rotate: false
+  xy: 2660, 390
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_sunglasses_strip18
+  rotate: false
+  xy: 2426, 3890
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_tennisball_gray_strip18
+  rotate: false
+  xy: 2426, 3912
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_tennisball_intro_strip17
+  rotate: false
+  xy: 2660, 428
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_tennisball_strip18
+  rotate: false
+  xy: 2426, 3934
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_watermelon_gray_strip18
+  rotate: false
+  xy: 3248, 2140
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Sprites/spr_watermelon_intro_strip17
+  rotate: false
+  xy: 2660, 466
+  size: 544, 32
+  orig: 544, 32
+  offset: 0, 0
+  index: -1
+Sprites/spr_watermelon_strip18
+  rotate: false
+  xy: 3248, 2162
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Tiles/spike_test
+  rotate: false
+  xy: 808, 1996
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tiles/ts_bizbotHQ
+  rotate: false
+  xy: 1078, 1024
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/ts_bizbotHQ/Final Arena_stuff
+  rotate: false
+  xy: 2, 3668
+  size: 608, 416
+  orig: 608, 416
+  offset: 0, 0
+  index: -1
+Tiles/ts_bizbotHQ/ts_bizbothq_background
+  rotate: false
+  xy: 2790, 1200
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_bizbotHQ/ts_bizbothq_edge
+  rotate: false
+  xy: 2046, 1226
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_bizbotHQ/ts_final_arena
+  rotate: false
+  xy: 1544, 66
+  size: 608, 608
+  orig: 608, 608
+  offset: 0, 0
+  index: -1
+Tiles/ts_bobayou
+  rotate: false
+  xy: 1078, 1158
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/ts_bobayou/ts_bobayou_background
+  rotate: false
+  xy: 2892, 1200
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_bobayou/ts_bobayou_edge
+  rotate: false
+  xy: 2046, 1248
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_bobayou_water
+  rotate: false
+  xy: 1884, 1880
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tiles/ts_bobayou_water/ts_bobayou_water_background
+  rotate: false
+  xy: 2158, 231
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_bobayou_water/ts_bobayou_water_edge
+  rotate: false
+  xy: 2988, 1798
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_bobayou_water/ts_bobayou_water_edge_strip8
+  rotate: false
+  xy: 808, 1298
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_bouncy
+  rotate: false
+  xy: 1230, 544
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_cotton_candy
+  rotate: false
+  xy: 2054, 1871
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tiles/ts_cotton_candy/ts_cotton_candy_background
+  rotate: false
+  xy: 2158, 333
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_cotton_candy/ts_cotton_candy_edge
+  rotate: false
+  xy: 2362, 1310
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Tiles/ts_floatyfluff
+  rotate: false
+  xy: 1914, 1609
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Tiles/ts_floatyfluff/ts_floatyfluff_background
+  rotate: false
+  xy: 2652, 1098
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_floatyfluff/ts_floatyfluff_edge
+  rotate: false
+  xy: 2712, 2086
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_flowing_slime_strip7
+  rotate: false
+  xy: 1356, 1284
+  size: 112, 16
+  orig: 112, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_gravity
+  rotate: false
+  xy: 1230, 566
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_gravity2
+  rotate: false
+  xy: 1230, 588
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_grittycity
+  rotate: false
+  xy: 1096, 456
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+Tiles/ts_grittycity1
+  rotate: false
+  xy: 2124, 1871
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tiles/ts_grittycity1/ts_grittycity1_background
+  rotate: false
+  xy: 2014, 826
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_grittycity1/ts_grittycity1_edge
+  rotate: false
+  xy: 2712, 2108
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_grittycity2
+  rotate: false
+  xy: 2030, 1273
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tiles/ts_grittycity2/ts_grittycity2_background
+  rotate: false
+  xy: 2014, 928
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_grittycity2/ts_grittycity2_edge
+  rotate: false
+  xy: 2712, 2130
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_loonyland
+  rotate: false
+  xy: 1078, 1292
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/ts_loonyland/ts_loonyland_background
+  rotate: false
+  xy: 3216, 522
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_loonyland/ts_loonyland_edge
+  rotate: false
+  xy: 2712, 2152
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_oil
+  rotate: false
+  xy: 1230, 610
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_paintforest
+  rotate: false
+  xy: 904, 948
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/ts_paintforest/ts_paintforest_background
+  rotate: false
+  xy: 3216, 624
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_paintforest/ts_paintforest_edge
+  rotate: false
+  xy: 3248, 2206
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_sinking_slime
+  rotate: false
+  xy: 1944, 680
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tiles/ts_sinking_slime/ts_sinking_slime_background_strip8
+  rotate: false
+  xy: 1022, 3870
+  size: 768, 96
+  orig: 768, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_sinking_slime/ts_sinking_slime_edge
+  rotate: false
+  xy: 2618, 3956
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes
+  rotate: false
+  xy: 1944, 750
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_background
+  rotate: false
+  xy: 3216, 726
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_bizbothq_background
+  rotate: false
+  xy: 3146, 2140
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_bizbothq_edge
+  rotate: false
+  xy: 2464, 1310
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_bobayou_background
+  rotate: false
+  xy: 2894, 2086
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_bobayou_edge
+  rotate: false
+  xy: 2566, 1310
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_edge
+  rotate: false
+  xy: 2668, 1310
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_floaty_background
+  rotate: false
+  xy: 2996, 2086
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_floaty_edge
+  rotate: false
+  xy: 2770, 1310
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_gritty_background
+  rotate: false
+  xy: 2988, 1594
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_gritty_edge
+  rotate: false
+  xy: 2872, 1310
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_paint_background
+  rotate: false
+  xy: 2988, 1696
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_paint_edge
+  rotate: false
+  xy: 2974, 1310
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_surreal_background
+  rotate: false
+  xy: 2222, 3868
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_spikes/ts_spikes_surreal_edge
+  rotate: false
+  xy: 1944, 1233
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Tiles/ts_sticky
+  rotate: false
+  xy: 1230, 632
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_surrealsanctum
+  rotate: false
+  xy: 1944, 820
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tiles/ts_surrealsanctum/ts_surrealsanctum_background
+  rotate: false
+  xy: 2222, 3970
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_surrealsanctum/ts_surrealsanctum_edge
+  rotate: false
+  xy: 2618, 3978
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_surrealsanctum2
+  rotate: false
+  xy: 1944, 890
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paint_background_strip3
+  rotate: false
+  xy: 1360, 3972
+  size: 288, 96
+  orig: 288, 96
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paint_edge_strip3
+  rotate: false
+  xy: 3248, 2184
+  size: 288, 16
+  orig: 288, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paint_mix_B
+  rotate: false
+  xy: 2618, 4000
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paint_mix_B_strip8
+  rotate: false
+  xy: 808, 1386
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paint_mix_R
+  rotate: false
+  xy: 2618, 4022
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paint_mix_R_strip8
+  rotate: false
+  xy: 808, 1408
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paint_mix_Y
+  rotate: false
+  xy: 808, 3064
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paint_mix_Y_strip8
+  rotate: false
+  xy: 808, 1430
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paintB_edge_strip8
+  rotate: false
+  xy: 808, 1320
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paintR_edge_strip8
+  rotate: false
+  xy: 808, 1342
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_swimmable_paint/ts_swimmable_paintY_edge_strip8
+  rotate: false
+  xy: 808, 1364
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+Tiles/ts_tutorial
+  rotate: false
+  xy: 2680, 180
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+Tiles/ts_voxel_background
+  rotate: false
+  xy: 2324, 3868
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
